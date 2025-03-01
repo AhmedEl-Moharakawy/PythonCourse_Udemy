@@ -1,0 +1,28 @@
+#Q: Simplify expressions
+● For each expression:
+○ Manually Simplify it step by step to finally be a T or F
+
+
+● T and T and F and T
+#Answer: F
+
+● T and T and F and T or T and T
+#Answer: T
+
+● T and T and T and T or T and (T or F)
+#Answer: T
+
+● T and T and T or T and (F or (T and (T and T)))
+#Answer: T
+
+● T and T or T and F and T or T and T and F or (T and (T or F))
+#Answer: T 
+
+● T and T or T and F and T or (T and T and F or (T and (T or F)))
+#Answer: T 
+
+● (T and T or T and F and T or T) and T and F or (T and (T or F))
+#Answer: T
+
+● T and T or T and (F and T or T and T) and F or (T and (T or F))
+#Answer: T 
