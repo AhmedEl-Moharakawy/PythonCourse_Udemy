@@ -1,0 +1,17 @@
+Debugging:
+==========
+● Finding the bug with "2 Approaches"
+
+● Printing approach:
+  ==================
+    ○ Like you do all the time.
+    ○ Print statements where you suspect errors
+    ○ Seems naive, but still strong one. In many big projects or some remote sessions is used
+    ○ In real projects we also use loggers: logging several kind of information
+■ Later with system issues we read logs guess where is the problem
+
+● Debugger approach:
+  ==================
+    ○ Trace your code line by line. Very powerful if can be used
+
+● Debugger: Program to help us debugging (from IDE or Console)
