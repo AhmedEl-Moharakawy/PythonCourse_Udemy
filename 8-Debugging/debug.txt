@@ -15,3 +15,5 @@ Debugging:
     ○ Trace your code line by line. Very powerful if can be used
 
 ● Debugger: Program to help us debugging (from IDE or Console)
+
+look at this resourse (https://www.youtube.com/watch?v=b4p-SBjHh28)
